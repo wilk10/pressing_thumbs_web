@@ -13,4 +13,5 @@ hyde_favicon = true
 hyde_theme = "theme-base-0g"
 hyde_links = [
     {name = "HOME", url = "/about"},
+    {name = "NEWSLETTER", url = "/newsletter"},
 ]
