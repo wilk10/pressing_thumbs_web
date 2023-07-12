@@ -7,6 +7,7 @@ title: "About"
 ### Hi there!
 
 ### Pressing Thumbs is a game development studio based in Berlin, Germany.
+<br />
 
 ![my face](./photo.png)
 
