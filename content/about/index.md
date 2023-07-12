@@ -6,12 +6,9 @@ title: "About"
 
 ### Hi there!
 
-### Pressing Thumbs is a game development studio based in Berlin, Germany.
 <br>
 
 ![A picture of me](./photo.png)
-
-### It's just me!
 
 My name is Anselmo. I come from Italy but have been living in Berlin since 2018.
 <br>
@@ -20,8 +17,8 @@ After many years working as a software engineer I decided to follow my real pass
 and started to make video games.
 <br>
 <br>
-Pressing Thumbs is the name of my studio. It comes from the German's equivalent
-of "crossing the fingers".
+_Pressing Thumbs_ is the name of my studio. It comes from the German's equivalent
+of "crossing the fingers". It's just me at the moment!
 <br>
 <br>
 I use [Bevy Engine](https://bevyengine.org) and [Rust](https://rust-lang.org) programming language to make my games.
