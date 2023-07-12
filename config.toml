@@ -2,8 +2,15 @@ base_url = "https://pressingthumbs.com"
 title = "Pressing Thumbs"
 compile_sass = true
 build_search_index = false
+theme = "hyde"
 
 [markdown]
 highlight_code = false
 
 [extra]
+hyde_sticky = false
+hyde_favicon = true
+hyde_theme = "theme-base-0g"
+hyde_links = [
+    {name = "HOME", url = "/about"},
+]
