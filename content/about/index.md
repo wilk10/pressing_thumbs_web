@@ -25,3 +25,9 @@ of "crossing the fingers".
 <br />
 <br />
 I use [Bevy Engine](https://bevyengine.org) and [Rust](https://rust-lang.org) programming language to make my games.
+
+---
+
+This website is built using [Zola](https://www.getzola.org)
+and uses [a modified version](https://github.com/wilk10/hyde)
+of the [Hyde theme](https://github.com/getzola/hyde).
