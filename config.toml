@@ -1,5 +1,6 @@
 base_url = "https://pressingthumbs.com"
 title = "Pressing Thumbs"
+description = "A game development studio based in Berlin"
 compile_sass = true
 build_search_index = false
 theme = "hyde"
