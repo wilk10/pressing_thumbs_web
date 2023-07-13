@@ -11,7 +11,7 @@ mail@pressingthumbs.com
 ### Find me on
 
 [Twitter](https://twitter.com/ElmoSampedro)<br>
-[Mastodon](https://mastodon.online/@elmowilk)<br>
+<a href="https://mastodon.online/@elmowilk" rel="me">Mastodon</a><br>
 [GitHub](https://github.com/wilk10)
 
 <br>
