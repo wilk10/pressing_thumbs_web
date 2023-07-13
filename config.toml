@@ -17,3 +17,4 @@ hyde_links = [
     {name = "NEWSLETTER", url = "/newsletter"},
     {name = "CONTACTS", url = "/contacts"},
 ]
+logo_path = "../logo_with_text.png"

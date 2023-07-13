@@ -2,7 +2,9 @@
 title: "About"
 ---
 
-![Pressing Thumbs logo](./logo_with_text.png)
+# Pressing Thumbs Games
+
+<br>
 
 ### Hi there!
 
