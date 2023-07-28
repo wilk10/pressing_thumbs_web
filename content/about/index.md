@@ -6,17 +6,16 @@ title: "About"
 
 <br>
 
-### Hi there!
-
-<br>
-
 ![A picture of me](./photo.png)
 
 My name is Anselmo. I come from Italy but have been living in Berlin since 2018.
 <br>
 <br>
-After many years working as a software engineer I decided to follow my real passion
-and started to make video games.
+I worked for many years as a software engineer, but I always felt I wanted to implement my own ideas,
+and give my creativity an outlet, while still using my coding skills. So I have decided to learn
+how to make video games.
+<br>
+I am currently working on my first commercial game. You can have a glimpse of it [here](../newsletter).
 <br>
 <br>
 _Pressing Thumbs_ is the name of my studio. It comes from the German's equivalent
