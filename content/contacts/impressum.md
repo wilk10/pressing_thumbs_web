@@ -23,4 +23,4 @@ _Registry court_: Amtsgericht Charlottenburg</br>
 _Register number_: HRB 254115 B</br>
 _Managing Director_: Anselmo Sampietro</br>
 
-_VAT ID number in accordance with § 27 UStG_: DE TODO</br>
+_VAT ID number in accordance with § 27 UStG_: DE362481710</br>
