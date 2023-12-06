@@ -14,6 +14,7 @@ hyde_favicon = true
 hyde_theme = "theme-base-0g"
 hyde_links = [
     {name = "HOME", url = "/about"},
+    {name = "TIMES OF PROGRESS", url = "/times-of-progress"},
     {name = "NEWSLETTER", url = "https://subscribepage.io/pressingthumbs"},
     {name = "CONTACTS", url = "/contacts"},
 ]
