@@ -16,7 +16,7 @@ and use my creativity, together with my coding skills. So I have decided to make
 <br>
 <br>
 I am working on [Times of Progress](/times-of-progress). It's a City Builder set during the Industrial Revolution.
-You can wishlist it on [Steam](https://twitter.com/ElmoSampedro).  <!-- TODO !!!!!!!!!!!!!!!!!!!!!!! -->
+You can wishlist it on [Steam](https://store.steampowered.com/app/2628450/Times_of_Progress/).
 <br>
 <br>
 _Pressing Thumbs_ is the name of my studio. It comes from the German's equivalent of "crossing the fingers".

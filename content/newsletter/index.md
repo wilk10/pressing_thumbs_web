@@ -6,4 +6,4 @@ title: "Newsletter"
 
 <br>
 
-![A screenshot of my unannounced game](./screenshot.jpg)
+![A screenshot of Times of Progress](./screenshot.jpg)
