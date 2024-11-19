@@ -10,7 +10,7 @@ mail@pressingthumbs.com
 
 ### Find me on
 
-[Twitter](https://twitter.com/ElmoSampedro)<br>
+[BlueSky](https://bsky.app/profile/elmowilk.bsky.social)<br>
 <a rel="me" href="https://mastodon.online/@elmowilk">Mastodon</a><br>
 [GitHub](https://github.com/wilk10)
 
